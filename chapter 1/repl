@@ -1,0 +1,3 @@
+repl = read evaluate print loop 
+this concept shows thats python can also run in powershell and it can do the work efficiently
+and also repl does not mean that it will run if there is syntax error no 
